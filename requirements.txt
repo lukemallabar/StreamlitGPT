@@ -1,3 +1,4 @@
 openai
 pypdf2
+streamlit_scrollable_textbox 
 
