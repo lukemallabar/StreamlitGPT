@@ -1,4 +1,3 @@
-name: rfwapp
 channels:
   - defaults
 dependencies:
